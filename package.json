@@ -1,0 +1,13 @@
+{
+  "name": "crawling_v4",
+  "version": "1.0.0",
+  "description": "High-Precision Telecom Data Parser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,167 @@
+const payload = {
+  productCode: "Z2025_DIGITAL_KYOBO",
+  productName: "교보문고_sam_+_구글_원",
+  carrier: "LGU",
+  category: "디지털콘텐츠",
+  rawHtml: `
+<div class="c-tabcontent-box type"><p class="is-blind">상세 정보 탭 패널</p> <ul class="mobile-service-tab__button-list"><li class="mobile-service-tab__item"><a data-route="" href="#520" class="mobile-service-tab__item">서비스 안내</a></li><li class="mobile-service-tab__item"><a data-route="" href="#526" class="mobile-service-tab__item">이용 방법</a></li><li class="mobile-service-tab__item"><a data-route="" href="#527" class="mobile-service-tab__item">가입 및 해지</a></li><li class="mobile-service-tab__item"><a data-route="" href="#528" class="mobile-service-tab__item">꼭 확인하세요</a></li></ul> <section id="520" class="html__container"><div class="cv-html-wrap">
+  <div class="pc-cv-box">
+    <p class="c-tabcontent-tit -mb-8n-4 cl-black" style="padding-top: 80px;">서비스 안내</p>
+    <dl class="cv-exp-list">
+      <dt class="cl-black font-24">서비스 특징</dt>
+      <dd>
+        <ul class="c-bullet-type-circle grow-1 cl-gray">
+          <li>교보문고의 전자책 서비스인 sam에서 프리미엄 전자책을 매 이용권 기간마다 12권 선택하여 열람할 수 있고, 구글 클라우드 저장 공간 100GB를 함께 이용할 수 있어요.</li>
+        </ul>
+      </dd>
+      <dt class="cl-black font-24">서비스 대상</dt>
+      <dd>
+        <ul class="c-bullet-type-circle grow-1 cl-gray">
+          <li>만 14세 이상이고, U+모바일 요금제를 이용 중이라면 누구나 가입할 수 있어요.</li>
+        </ul>
+      </dd>
+      <dt class="cl-black font-24">서비스 내용</dt>
+      <dd>
+        <div class="row c-table">
+          <table class="table b-table table-bordered">
+            <caption>교보문고 sam + 구글 원에 대한 표</caption>
+            <thead><tr><th>이용요금</th><th colspan="3">내용</th></tr></thead>
+            <tbody>
+              <tr>
+                <td rowspan="2">16,500원</td>
+                <td>교보문고 프리미엄 sam12</td>
+                <td>교보문고의 전자책 서비스인 sam에서 프리미엄 전자책을 매 이용권 기간마다 12권 선택하여 열람</td>
+                <td><a class="c-link-arr-1-s" href="https://ent.uplus.co.kr/ch/ledtV_u1 ">교보문고 이용권 등록</a></td>
+              </tr>
+              <tr>
+                <td>구글 원 100GB</td>
+                <td>구글 포토, 드라이브, 지메일에서 이용할 수 있는 클라우드 저장 공간 100GB</td>
+                <td><a class="c-link-arr-1-s" href="https://www.lguplus.com/mypage/sub-service/mobile">구글 계정 등록</a></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <ul class="c-bullet-type-circle grow-1 cl-gray -mt-8n-2">
+          <li>이용 요금은 부가세가 포함된 금액이에요.</li>
+          <li>월 중간에 서비스를 가입하거나 해지하면, 이용한 날만큼 하루 단위로 요금이 계산돼요.</li>
+          <li>교보문고는 이용권을 등록하고, 구글은 계정을 등록해야 서비스를 이용할 수 있어요. 이용권 또는 계정을 등록하지 않아도 이용 요금이 발생하니 유의해 주세요.</li>
+          <li>해지하면 30일 후에 다시 가입할 수 있어요.</li>
+        </ul>
+      </dd>
+    </dl>
+  </div>
+</div></section>
+<section id="526" class="html__container html__item"><div class="cv-html-wrap">
+  <div class="pc-cv-box">
+    <p class="c-tabcontent-tit -mb-8n-4 cl-black" style="padding-top: 60px;">이용 방법</p>
+    <p class="h3">교보문고 프리미엄 sam12</p>
+    <p class="h4">이용하기</p>
+    <ul class="c-bullet-type-circle grow-1 cl-gray">
+      <li>앱: 구글 플레이 스토어, 원스토어, 애플 앱 스토어에서 ‘교보eBook’을 검색하고 앱을 설치하면 서비스를 이용할 수 있어요.</li>
+      <li>홈페이지: 교보문고 sam 홈페이지에서 서비스를 이용할 수 있어요. <a class="c-link-arr-1-s" href="https://sam.kyobobook.co.kr/">바로가기</a></li>
+    </ul>
+    <p class="h4">교보문고 이용권 등록방법</p>
+    <ul class="c-bullet-type-as-guide grow-1 cl-gray">
+      <li>① 이용권 등록 페이지 접속하기 <a class="c-link-arr-1-s" href="https://ent.uplus.co.kr/ch/ledtV_u1">바로가기</a></li>
+      <li>② [이용권 등록하러 가기] 누르기</li>
+      <li>③ 교보문고 계정으로 로그인하기</li>
+      <li>④ 휴대폰 번호 확인 후 이용권 받기</li>
+      <li>※ 이용권을 받은 날부터 1개월 동안 이용할 수 있어요. 이용권 기간이 종료되면 다시 이용권을 받아 이용해 주세요.</li>
+      <li>※ 교보문고 계정에 등록된 번호와 부가서비스를 가입한 번호가 일치하지 않는다면, 교보문고의 [회원정보 수정]에서 휴대폰 번호를 변경해 주세요.</li>
+    </ul>
+    <p class="h4">꼭 확인하세요</p>
+    <ul class="c-bullet-type-circle grow-1 cl-gray -mb-8n-4">
+      <li>상세 페이지에 ‘sam 프리미엄’이 표시된 책을 이용권 기간 동안 12권을 선택하여 읽을 수 있어요.</li>
+      <li>선택한 책은 [다운로드] 또는 [바로보기] 하지 않아도 열람권이 차감된 순간부터 6개월 동안 읽을 수 있어요. </li>
+      <li>열람권이 차감된 이후 6개월이 지난 책은 다시 열람할 때 열람권이 차감돼요.</li>
+      <li>열람권이 차감된 책은 열람 목록에 보관돼요. 다만, 교보문고 회원을 탈퇴하면 열람 목록이 삭제돼요.</li>
+      <li>열람 목록을 삭제하거나 이용권 해지 후 다시 가입해도 열람권을 이용한 지 6개월이 지나지 않은 책은 다시 읽을 수 있어요.</li>
+      <li>다른 기기로 접속하거나 앱을 삭제하고 다시 설치해도 열람 목록, 읽던 페이지, 독서 기록(하이라이트(밑줄), 메모, 책갈피 등)은 모두 유지돼요.</li>
+    </ul>
+    <p class="h3">구글 원 100GB 이용하기</p>
+    <p class="h4">구글 계정 등록하기</p>
+    <ul class="c-bullet-type-circle grow-1 cl-gray">
+      <li>로그인 → [MY] → [가입 정보 관리] → [부가서비스 조회/해지] → [이용 중인 부가서비스]에서 [구글 계정 등록]을 눌러 계정을 등록해 주세요.<br>※ [구글 계정 등록] 버튼이 보이지 않으면 계정 등록을 완료한 상태예요.</li>
+    </ul>
+    <p class="h4">구글 원 이용하기</p>
+    <ul class="c-bullet-type-circle grow-1 cl-gray">
+      <li>구글 포토, 드라이브, 지메일을 100GB 저장 공간으로 여유롭게 이용할 수 있어요.</li>
+      <li>본인을 포함해 최대 6인까지 함께 쓸 수 있어요.</li>
+    </ul>
+  </div>
+</div></section>
+<section id="527" class="html__container html__item"><div class="cv-html-wrap">
+  <div class="pc-cv-box">
+    <p class="c-tabcontent-tit -mb-8n-4 cl-black">가입 및 해지</p>
+    <p class="h3">서비스 가입하기</p>
+    <p class="h4">U+one 앱/U+ 홈페이지</p>
+    <ul class="c-bullet-type-circle grow-1 cl-gray">
+      <li>이 화면에서 [서비스 가입]을 눌러 가입해 주세요.</li>
+    </ul>
+    <p class="h4">고객센터</p>
+    <ul class="c-bullet-type-circle grow-1 cl-gray">
+      <li>114 또는 1544-0010으로 전화를 걸어 상담사에게 가입을 신청해 주세요.</li>
+    </ul>
+    <p class="h3 -mt-8n-4">서비스 해지하기</p>
+    <p class="h4">U+one 앱/U+ 홈페이지</p>
+    <ul class="c-bullet-type-circle grow-1 cl-gray">
+      <li>로그인 → [MY] → [가입 정보 관리] → [부가서비스 조회/해지] → [이용 중인 부가서비스]에서 ‘교보문고 sam + 구글 원’ 옆 [해지]를 누르세요.</li>
+    </ul>
+    <p class="h4">고객센터</p>
+    <ul class="c-bullet-type-circle grow-1 cl-gray -pb-8n-4">
+      <li>114 또는 1544-0010으로 전화를 걸어 상담사에게 해지를 신청해 주세요.</li>
+    </ul>
+  </div>
+</div></section>
+<section id="528" class="html__container html__item"><div class="cv-html-wrap">
+  <div class="pc-cv-box">
+    <p class="c-tabcontent-tit cl-black -mb-8n-4">꼭 확인하세요</p>
+    <dl class="cv-exp-list">
+      <dt class="cl-black font-24">공통</dt>
+      <dd>
+        <ul class="c-bullet-type-circle grow-1 cl-gray">
+          <li>해지하면 30일 후에 다시 가입할 수 있어요.</li>
+          <li>휴대폰을 일시 정지하면 서비스가 바로 해지돼요. 일시 정지를 해제해도 서비스에 다시 가입되지 않아요.</li>
+          <li>구글 계정을 탈퇴하면 서비스가 자동 해지돼요. 교보문고 프리미엄 sam12도 이용할 수 없어요.</li>
+          <li>서비스를 이용하는 동안에는 휴대폰 명의를 바꿀 수 없어요. 명의를 바꾸고 싶다면 서비스를 먼저 해지해 주세요.</li>
+          <li>제휴사 사정에 따라 서비스 내용이나 이용 요금이 바뀔 수 있어요.</li>
+        </ul>
+      </dd>
+      <dt class="cl-black font-24">교보문고 프리미엄 sam12</dt>
+      <dd>
+        <ul class="c-bullet-type-circle grow-1 cl-gray">
+          <li>교보문고 계정에 등록된 휴대폰 번호와 부가서비스에 가입한 휴대폰 번호가 일치해야 sam이용권을 받을 수 있어요.</li>
+          <li>교보문고 계정에 등록된 번호가 부가서비스에 가입한 번호와 다르다면, 교보문고의 ‘회원정보 수정‘에서 휴대폰 번호를 변경해 주세요.</li>
+          <li>이용권 기간이 종료되면 다시 이용권을 받아 이용해 주세요.</li>
+          <li>U+멤버십 VIP 혜택 ‘교보문고 sam’이나 교보문고의 다른 이용권을 이용하고 있어도 서비스에 가입할 수 있어요.</li>
+          <li>교보문고 sam 홈페이지 또는 교보eBook 앱에서 ‘sam 프리미엄’이 표시된 책을 매 달 12권 선택하여 열람할 수 있어요.</li>
+          <li>선택한 책을 [다운로드] 또는 [바로보기] 하지 않아도 열람권이 차감된 순간부터 6개월 동안 열람할 수 있어요.</li>
+        </ul>
+      </dd>
+      <dt class="cl-black font-24">구글 원 100GB</dt>
+      <dd>
+        <ul class="c-bullet-type-circle grow-1 cl-gray">
+          <li>구글 계정을 등록해야 서비스를 이용할 수 있어요. 로그인 → [MY] → [가입 정보 관리] → [부가서비스 조회/해지] → [이용 중인 부가서비스]에서 [구글 계정 등록]을 눌러 계정을 등록해 주세요. [구글 계정 등록] 버튼이 보이지 않으면, 계정 등록을 완료한 상태예요.</li>
+          <li>이 서비스는 개인 계정으로만 이용할 수 있어요. 학교, 회사 등 단체 계정으로는 이용할 수 없어요.</li>
+          <li>등록한 계정은 바꿀 수 없어요. 계정을 바꾸려면 서비스를 해지한 뒤 다시 가입해 주세요.</li>
+          <li>구글 계정 관리 페이지에서 구글 원 서비스를 삭제하거나 계정을 탈퇴하면 서비스가 해지돼요.</li>
+          <li>이미 구글 원을 이용 중이라면, 다음 내용을 확인해 주세요.<ul class="c-bullet-type-hypen"><li>구글 플레이에서 가입한 구글 원을 이용 중인 경우, 계정을 등록하면 가입 상품이 자동으로 바뀌어요. 기존 구독 상품은 선결제 상품으로, 이용한 날만큼 계산해 환불받을 수 있어요.</li><li>다른 제휴사에서 가입한 구글 원을 이용 중이라면 계정을 등록해도 기존 구독 내역이 바뀌지 않아요. 기존 구독 상품을 해지한 뒤 다시 계정을 등록하거나 다른 구글 계정을 등록해 주세요.</li></ul></li>
+        </ul>
+      </dd>
+    </dl>
+  </div>
+</div></section></div>
+`
+};
+
+async function sendRequest() {
+  const response = await fetch("http://localhost:3000/api/parse", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(payload),
+  });
+  const result = await response.json();
+  console.log("Response:", JSON.stringify(result, null, 2));
+}
+
+sendRequest();

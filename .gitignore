@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.DS_Store
+data/
+# Large data files or temporary files
+read.txt
+*.tmp

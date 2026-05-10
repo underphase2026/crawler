@@ -1,0 +1,127 @@
+const payload = {
+  productCode: "Z_KT_1778207920658_451",
+  productName: "5G 데이터쉐어링",
+  carrier: "KT",
+  category: "데이터",
+  rawHtml: `<div class="pduct-fteform1325-notice-box"><strong class="tit">데이터쉐어링이란?</strong><br>
+공유 받을 스마트기기에 USIM을 개통한 후,<br>
+사용하고 있는 스마트폰 요금제의 공유데이터를 공유해주는 부가서비스입니다.<br>
+<span class="bold">테더링과는 달리 스마트폰과 스마트기기가 멀리 떨어져있어도 데이터 이용이 가능합니다.</span></div>
+<div class="price-information-area">
+				<div class="column">
+					<div class="inner">
+       					<!-- SEO 고도화 -->
+    			    	<h2 class="title">요금안내</h2>
+                        <!-- //SEO 고도화 -->	    			    	
+						<div id="appendPriceDiv" class="desc"><p class="pduct-tbl-top-desc">부가세가 포함된 실제 지불금액입니다.</p>
+
+<table class="pduct-tbl-plan">
+	<caption class="invisible">상품명, 월정액, 제공혜택으로 정의한 표</caption>
+	<colgroup>
+		<col style="width:25%;">
+		<col style="width:25%;">
+		<col style="width:25%;">
+		<col style="width:25%;">
+	</colgroup>
+	<thead>
+		<tr>
+			<th scope="col">상품명</th>
+			<th scope="col">이용요금(월)</th>
+			<th colspan="2" scope="col">제공혜택</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th rowspan="8" scope="row">5G 데이터쉐어링</th>
+			<td>5,000원</td>
+			<td class="td-left" colspan="2">
+			<ul class="td-list">
+				<li>스마트폰과 스마트기기(태블릿PC/패드 등)데이터 공유 사용</li>
+				<li>olleh WiFi 서비스 기본 제공</li>
+			</ul>
+			</td>
+		</tr>
+		<tr class="tbody-head">
+			<th colspan="3" scope="col">요금제 별 공유 가능 데이터량(예시)</th>
+		</tr>
+		<tr class="tbody-body">
+			<td>초이스 프리미엄</td>
+			<td>100GB</td>
+			<td rowspan="5">‘스마트기기 / 테더링 데이터’ 차감</td>
+		</tr>
+		<tr class="tbody-body">
+			<td>초이스 스페셜</td>
+			<td>70GB</td>
+		</tr>
+		<tr class="tbody-body">
+			<td>스페셜 / Y스페셜</td>
+			<td>50GB</td>
+		</tr>
+		<tr class="tbody-body">
+			<td>초이스 베이직</td>
+			<td>40GB</td>
+		</tr>
+		<tr class="tbody-body">
+			<td>베이직 / Y베이직</td>
+			<td>40GB</td>
+		</tr>
+		<tr class="tbody-body">
+			<td>5G 슬림 14GB</td>
+			<td>14GB(기본제공)</td>
+			<td>‘기본제공량’ 차감</td>
+		</tr>
+	</tbody>
+</table></div><!-- end appendPriceInfo -->
+					</div>
+				</div>
+			</div>
+<div class="tab-toggle-area">
+				<div class="column">
+					<div class="inner">
+						<div class="accordions active">
+							<div class="tab-content-01 accordionH moveH">
+    										<!-- 0613 SEO 개선 -->
+			                                <h2 class="seo-improve-heading">유의사항</h2>
+			                                <!-- //0613 SEO 개선 -->
+										<button type="button" class="accordion-trigger title active" onclick="javascript:loadHtml.fn_getItemAccordionInfo('/static/prodetail/1325/web/itemAccordion/html/', 'accordion_20250822162851.html', '1');  detailClickStatistics.click('KT닷컴_PC_상품_모바일_모바일 부가서비스', '^KT닷컴_PC_상품_모바일_모바일 부가서비스_5G 데이터쉐어링^아코디언^', '유의사항');" id="title1" title="유의사항 내용" aria-expanded="true">
+										</button>
+										<div class="accordion-contents desc" style="display: block;">
+											<div id="accordion1"><ul class="pduct-list">
+	<li>대표회선이 5G 요금제인 경우만 가입 가능합니다</li>
+	<li>대표회선 요금제가 데이터 무제한 요금제일 경우 각 요금제의 ‘스마트기기/테더링 이용 한도’ 내에서 공유 사용 가능하며 (예. 초이스 프리미엄/초이스 스페셜/스페셜/초이스 베이직/베이직은 각각 100GB/70GB/50GB/40GB/40GB),&nbsp;데이터 기본 제공량이 존재하는 요금제의 경우 기본 데이터 제공량 내에서 공유 가능합니다.&nbsp;<br>
+	공유 데이터 소진 후 최대&nbsp;200Kbps&nbsp;속도제어로 사용 가능합니다.</li>
+	<li>음성/영상통화(데이터를 이용한 통화 포함), 문자(MMS(사진/영상메시지)/LMS(장문메시지)/SMS), 채팅+(채팅플러스) 서비스는 사용 불가합니다.</li>
+	<li>워치류(갤럭시 워치/애플 워치 등) 및 에그/라우터/3G 단말은 서브회선 등록이 불가합니다.</li>
+	<li>공유 데이터는 국내 사용만 가능하며, 쉐어링 된 단말기로 해외 로밍 이용 시는 각 국가별 별도 계약한 요율이 적용 됩니다.</li>
+	<li>5G 요금제 가입자(대표회선)에 동일 명의에 한하여 최대 9회선까지 가입 가능합니다. (5G데이터쉐어링 가입 시 고객별 이동전화 개통 가능 회선수에 포함)</li>
+	<li>대표회선 해지/명의변경 시, 5G 데이터쉐어링 회선은 일시정지되며 14일 경과 후 자동해지 됩니다.</li>
+	<li>대표회선 일시정지/복구 시, 5G 데이터쉐어링 회선도 일시정지/복구 됩니다.</li>
+	<li>데이터 공유 연결해지 또는 이용불가요금제로 변경 시, 데이터쉐어링 회선은 일시정지되며 180일 경과 후 자동해지 됩니다.</li>
+	<li>쉐어링 서비스 이용 단말기로 타 기기의 모뎀역할을 하거나 테더링으로 사용할 수 없습니다.</li>
+	<li>상업적인 목적으로 이용할 수 없으며, 고객의 불/편법적인 서비스 이용이 확인되거나 추정 될 경우 해당 서비스 이용을 제한할 수 있습니다. (예. 금전 등 부정한 이익을 얻을 목적으로 해당 서비스를 이용하는 행위, 제3자에게 임의로 해당 서비스를 임대하는 행위, 기타 사회 통념상 불/편법적인 행위로 인정되는 경우 등)</li>
+	<li>위 상품은 직접방문(KT플라자/대리점 <a class="btn small is-line-lightgray" href="https://help.kt.com/store/KtStoreSearch.do" target="_blank" title="새창열림">매장찾기</a>) 및 고객센터(국번 없이 100번)을 통해 신청 가능합니다.</li>
+</ul>
+</div>
+										</div>
+									</div>
+								</div>
+					</div>
+				</div>
+			</div>`
+};
+
+async function sendRequest() {
+  try {
+    const response = await fetch("http://localhost:3000/api/parse", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+    });
+    const result = await response.json();
+    console.log("Response:", JSON.stringify(result, null, 2));
+  } catch (e) {
+    console.error("Fetch Error:", e);
+  }
+}
+
+sendRequest();
