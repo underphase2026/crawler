@@ -1,0 +1,12 @@
+{
+  "itemCode": "UNKNOWN_CODE_1778125012280",
+  "productName": "태블릿스마트기기_요금할인",
+  "carrier": "LGU",
+  "category": "데이터",
+  "description": "특정 요금제에 가입하면 태블릿 또는 스마트기기 월정액을 할인받을 수 있는 혜택",
+  "content": {
+    "details": "<div class=\"c-page-section\">\n          <h3 class=\"h2\">서비스 내용</h3>\n          <dl class=\"cv-sv-group\">\n            <dt class=\"h5 sv-tit\">이용 가능 요금제</dt>\n            <dd>\n              <ul class=\"c-bullet-type-circle grow-1\">\n                <li>\n                  다음과 같은 요금제에 가입하면 태블릿/스마트기기 월정액을 할인\n                  받을 수 있어요.\n                  <ul class=\"c-bullet-type-hypen\">\n                    <li>5G 시그니처 / 프리미어 슈퍼: 최대 22,000원 할인</li>\n                    <li>\n                      5G 프리미어 플러스 / 프리미어 레귤러 / 슈퍼 플래티넘 /\n                      플래티넘 / 프리미엄, 속도용량 걱정없는 데이터 88, 데이터\n                      스페셜 C/D: 최대 11,000원 할인\n                    </li>\n                  </ul>\n                </li>\n                <li>자세한 내용은 요금제별 상세페이지에서 확인해 주세요.</li>\n              </ul>\n            </dd>\n          </dl>\n        </div>",
+    "usageGuidelines": "<div class=\"c-page-section\">\n          <h2 class=\"h2\">서비스 안내</h2>\n          <ul class=\"c-bullet-type-circle grow-1\">\n            <li>대상 요금제 가입 후 별도 신청해야 이용할 수 있어요.</li>\n            <li>\n              내 명의로 가입한 태블릿/스마트기기 또는 내가 법정대리인으로 등록된\n              아이의 키즈워치 월정액을 할인받을 수 있어요.\n              <ul class=\"c-bullet-type-hypen\">\n                <li>\n                  태블릿/스마트 기기: 태블릿/스마트기기 500MB + 데이터 나눠쓰기,\n                  LTE 데이터쉐어링 500MB, 5G 태블릿 4GB + 데이터 나눠쓰기, 5G\n                  태블릿 6GB + 데이터 나눠쓰기, 5G 데이터 나눠쓰기 요금제 중 선택 가능\n                </li>\n                <li>\n                  워치: LTE Wearable, LTE Wearable KIDS 요금제 중 선택 가능\n                </li>\n              </ul>\n            </li>\n            <li>\n              휴대폰을 해지하거나 일시정지하면 할인을 받을 수 없어요. 해지\n              취소/일시정지 해제 후에는 다시 혜택을 신청해야 할인받을 수 있어요.\n            </li>\n          </ul>\n        </div>",
+    "notices": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778344241059_334",
+  "productName": "신용지키미",
+  "carrier": "SKT",
+  "category": "혜택_편의",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><!-- ##### admin 등록 영역 ##### --><div class=\"prCont-txt\"><ul style=\"padding-top:0 !important\"><li>월 3,300원(부가세 포함)</li></ul></div><!-- //##### admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "usageGuidelines": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"2\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><!-- ##### admin 등록 영역 ##### --><div class=\"prCont-txt\"><table width=\"100%\" border=\"1\" summary=\"가입해지채널\" style=\"margin-top:0 !important\"><caption>가입해지채널 안내 - 유형, 가입/해지 채널, 상세경로로 구성된 표입니다.</caption><colgroup><col style=\"width:20%\"><col style=\"width:30%\"><col style=\"width:50%\"></colgroup><thead><tr><th scope=\"col\">\n\n유형\n</th><th scope=\"col\">\n\n가입/해지 채널\n</th><th scope=\"col\">\n\n상세경로\n</th></tr></thead><tbody><tr><th scope=\"row\">\n\n가입\n</th><td>\n\nPASS 앱\n</td><td>\n\nPASS 앱 &gt; ‘전체’ &gt; ‘신용/자산’ &gt; ‘신용’\n</td></tr><tr><th scope=\"row\" rowspan=\"4\">\n\n해지\n</th><td>\n\nPASS 앱\n</td><td>\n\nPASS 앱 &gt; ‘전체’ &gt; ‘설정’ &gt; ‘서비스 설정/해지관리‘\n</td></tr><tr><td>\n\n고객센터\n</td><td>\n\n1599-0011 (SKT 고객센터)\n</td></tr><tr><td>\n\nT world\n</td><td>\n\nTworld 내 검색을 통한 해지\n</td></tr><tr><td>\n\n신용지키미 웹사이트\n</td><td>\nhttps://join.credit.co.kr/ib20/mnu/BAMSKTTCJ20\n</td><!-- 240118 [MOZOP002-32019] --></tr></tbody></table></div><!-- //##### admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "notices": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"3\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><!-- ##### admin 등록 영역 ##### --><div class=\"prCont-txt\"><ul style=\"padding-top:0 !important\"><li>해지 시 이용요금은 이용한 기간만큼 하루 단위로 계산하여 청구되며, 가입 당일 해지 시 요금이 청구되지 않습니다.</li><li>피처폰, 선불폰, 법인폰, 해외에 계시는 고객님, 알뜰폰(MVNO) 이용 고객님 및 만 19세 미만 고객님은 가입하실 수 없습니다.</li><li>휴대폰을 일시 정지하신 경우 서비스를 이용하실 수 없습니다.(이 경우 이용요금이 청구되지 않습니다.)</li></ul></div><!-- //##### admin 등록 영역 ##### --></div>\n                </div>\n            </div>"
+  }
+}

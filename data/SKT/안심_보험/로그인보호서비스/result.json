@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778382582534_157",
+  "productName": "로그인보호서비스",
+  "carrier": "SKT",
+  "category": "안심_보험",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul>      \n<li>이용요금 : 1,100원 (부가세 포함)</li><li>월 중 가입/해지 시에는 이용 일수에 비례하여 일할 과금</li></ul></div></div>\n                </div>\n            </div>",
+    "usageGuidelines": "",
+    "notices": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"2\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul>  <li>SMS 통보를 받을 수 없는 특수 기기 가입시<br>가입자 불만이 발생할 소지가 있으므로 서비스 특성 상<br>SMS가 필요하다는 별도의 설명과 가입불가 설명 필요 </li></ul></div></div>\n                </div>\n            </div>"
+  }
+}

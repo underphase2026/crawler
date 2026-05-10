@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778382582446_335",
+  "productName": "T안심콜",
+  "carrier": "SKT",
+  "category": "안심_보험",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul> \n<li>2,200원(부가세 포함)</li><li>서비스 해지 시 요금은 일할 과금됩니다.</li>\n\n</ul></div></div>\n                </div>\n            </div>",
+    "usageGuidelines": "",
+    "notices": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"2\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><!-- ##### admin 등록 영역 ##### -->                            <div class=\"prCont-txt\">\n                                <!-- 221017 [MOZOP002-23613] -->\n                                <ul>\n                                    <li>스마트폰 뿐 아니라 피처폰 단말에서도 이용 가능</li>\n                                    <!-- <li>외산 단말 및 자급제 단말의 경우 T안심콜 어플에서 어플 Push가 정상적으로 지원이 되지 않습니다.</li> -->\n                                </ul>\n                                <!-- //221017 [MOZOP002-23613] -->\n                            </div><!-- //##### admin 등록 영역 ##### --></div>\n                </div>\n            </div>"
+  }
+}

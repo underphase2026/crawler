@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_LGU_1778160635770_626",
+  "productName": "050_안심_300분",
+  "carrier": "LGU",
+  "category": "통화_문자메시지",
+  "description": "050 번호 발신통화를 월 300분 이용할 수 있는 통화 할인 옵션",
+  "content": {
+    "details": "<div class=\"c-page-section\">\n<p class=\"h2\">서비스 내용</p>\n\n<p class=\"h5\">요금제</p>\n\n<div class=\"row c-table -mt-8n-2\">\n<table class=\"table b-table table-bordered\">\n\t<caption>요금제 : 월정액, 내용 에 대한 표</caption>\n\t<colgroup>\n\t\t<col>\n\t</colgroup>\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">월정액</th>\n\t\t\t<th scope=\"col\">내용</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>3,300원</td>\n\t\t\t<td>050번호로 거는 음성통화를 월 300분 이용할 수 있는 서비스</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n</div>\n<hr class=\"section-divider\">\n<div class=\"c-page-section\">\n<p class=\"h2\">서비스 안내</p>\n\n<p class=\"h5 -mt-8n-2\">가입할 수 있는 요금제</p>\n\n<ul class=\"c-bullet-type-circle\">\n\t<li>데이터 29.9~100, Video 38~59, (구)데이터중심 29.9~99.9, (구)데이터중심 Video 37~75, LTE 음성 89~124, LTE 사장님 음성 89/99, LTE 선택형 음성(유무선)</li>\n</ul>\n\n<p class=\"-mt-8n-2\">050 안심번호란</p>\n\n<ul class=\"c-bullet-type-circle\">\n\t<li>1회용 가상 번호로, 발신자에게 실제 번호가 노출되지 않는 서비스입니다.</li>\n\t<li>현재 New 음성무한 요금제 등 유무선 음성통화 무제한 요금제에서는 부가 전화로 분류되어 기본 제공량에서 데이터가 줄어듭니다.</li>\n</ul>\n</div>",
+    "usageGuidelines": "<div class=\"c-accordion-group\"><div variant=\"primary\" class=\"c-accordion-header collapsed\" role=\"button\" tabindex=\"0\" aria-expanded=\"false\" aria-controls=\"_uid_435_0\" style=\"overflow-anchor: none;\"><div class=\"row\" style=\"width: 100%;\"><div class=\"col\"><strong>가입 및 해지</strong></div> <!----></div> <div class=\"acc-toggle\"><i class=\"when-open\"></i> <i class=\"when-closed\"></i></div></div> <div id=\"_uid_435_0\" class=\"collapse\" style=\"display: none;\"><div class=\"card\"><!----><!----><div class=\"card-body\"><!----><!----><div class=\"cv-html-wrap\"><!-- CVHTML : 가입 및 해지 -->\n<div class=\"pc-cv-box\">\n<div class=\"cv-use-wrap\">\n<p class=\"h4\">서비스 가입하기</p>\n\n<p class=\"-mt-8n-2\">고객센터</p>\n\n<ul class=\"c-bullet-type-circle\">\n\t<li>고객센터 상담사를 통해 신청할 수 있습니다.<br>\n\t(휴대폰에서 114(무료), 청소년의 경우 법정대리인 확인 절차가 요구됩니다.)</li>\n</ul>\n\n<p class=\"-mt-8n-2\">영업점</p>\n\n<ul class=\"c-bullet-type-circle\">\n\t<li>전국의 LG유플러스 직영점이나 대리점에서 서비스를 신청할 수 있습니다. <a class=\"link\" href=\"/support/store-address\" target=\"_blank\" title=\"새창열림\">가까운 매장 찾아보기</a></li>\n</ul>\n</div>\n\n</div>\n\n\n<!-- //CVHTML : 가입 및 해지 --></div>\n <!----> <!----></div><!----><!----></div></div></div>",
+    "notices": ""
+  }
+}

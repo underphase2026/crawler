@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_KT_1778207920514_258",
+  "productName": "내_마음대로_2시간_데이터_프리",
+  "carrier": "KT",
+  "category": "데이터",
+  "description": "부가세가 포함된 실제 지불금액입니다.\n\n\n\t요금안내 표, 상품명, 이용요금, 데이터 등으로 구성함\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t상품명\n\t\t\t이용요금\n\t\t\t데이터\n\t\t\n\t\n\t\n\t\t\n\t\t\t내 마음대로 2시간 데이터 프리\n\t\t\t2,900원\n\t\t\t매일 원하는 2시간 무제한*",
+  "content": {
+    "details": "<h2 class=\"title\">요금안내</h2>\n<div id=\"appendPriceDiv\" class=\"desc\"><p class=\"pduct-tbl-top-desc\">부가세가 포함된 실제 지불금액입니다.</p>\n\n<table class=\"pduct-tbl-plan\">\n\t<caption class=\"invisible\">요금안내 표, 상품명, 이용요금, 데이터 등으로 구성함</caption>\n\t<colgroup>\n\t\t<col style=\"width:25%;\">\n\t\t<col style=\"width:25%;\">\n\t\t<col style=\"width:50%;\">\n\t</colgroup>\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">상품명</th>\n\t\t\t<th scope=\"col\">이용요금</th>\n\t\t\t<th scope=\"col\">데이터</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th scope=\"row\">내 마음대로 2시간 데이터 프리</th>\n\t\t\t<td>2,900원</td>\n\t\t\t<td>매일 원하는 2시간 무제한*</td>\n\t\t</tr>\n\t</tbody>\n</table></div>",
+    "usageGuidelines": "<h2 class=\"title\">요금안내</h2>\n<div id=\"appendPriceDiv\" class=\"desc\"><p class=\"pduct-tbl-top-desc\">부가세가 포함된 실제 지불금액입니다.</p>\n\n<table class=\"pduct-tbl-plan\">\n\t<caption class=\"invisible\">요금안내 표, 상품명, 이용요금, 데이터 등으로 구성함</caption>\n\t<colgroup>\n\t\t<col style=\"width:25%;\">\n\t\t<col style=\"width:25%;\">\n\t\t<col style=\"width:50%;\">\n\t</colgroup>\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">상품명</th>\n\t\t\t<th scope=\"col\">이용요금</th>\n\t\t\t<th scope=\"col\">데이터</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th scope=\"row\">내 마음대로 2시간 데이터 프리</th>\n\t\t\t<td>2,900원</td>\n\t\t\t<td>매일 원하는 2시간 무제한*</td>\n\t\t</tr>\n\t</tbody>\n</table></div>",
+    "notices": "<h2 class=\"seo-improve-heading\">가입 및 유의사항</h2>\n<button type=\"button\" class=\"accordion-trigger title\" onclick=\"javascript:loadHtml.fn_getItemAccordionInfo('/static/prodetail/1650/web/itemAccordion/html/', 'accordion_20260126165905.html', '1');  detailClickStatistics.click('KT닷컴_PC_상품_모바일_모바일 부가서비스', '^KT닷컴_PC_상품_모바일_모바일 부가서비스_내 마음대로 2시간 데이터 프리^아코디언^', '가입 및 유의사항');\" id=\"title1\" title=\"가입 및 유의사항 내용\" aria-expanded=\"false\">\n\t\t\t\t\t\t\t\t\t\t</button>\n<div class=\"accordion-contents desc\">\n\t\t\t\t\t\t\t\t\t\t\t<div id=\"accordion1\"></div>\n\t\t\t\t\t\t\t\t\t\t</div>"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778382582856_66",
+  "productName": "전화번호_안심로그인",
+  "carrier": "SKT",
+  "category": "안심_보험",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><!-- ##### admin 등록 영역 ##### -->                            <div class=\"prCont-txt\">\n                                \n<ul>\n                                    \n<li>이용요금 : 1,100원(부가세 포함)</li>\n   <li>월 중 가입/해지 시에는 이용 일수에 비례하여 일할 과금\n</li>                             \n</ul>\n                            </div><!-- //##### admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "usageGuidelines": "",
+    "notices": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"5\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul>      <li>서비스 이용 시, 제휴사이트 ID등록 필요</li> <li>전화번호 안심로그인 고객센터를 통한 암호 재설정 시, 등록된 ID의 안전한 보호를 위한 본인확인 절차 필요</li></ul></div></div>\n                </div>\n            </div>"
+  }
+}

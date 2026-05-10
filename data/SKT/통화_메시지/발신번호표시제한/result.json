@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778385559767_596",
+  "productName": "발신번호표시제한",
+  "carrier": "SKT",
+  "category": "통화_메시지",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul>   <li>이용요금 : 무료</li></ul></div></div>\n                </div>\n            </div>",
+    "usageGuidelines": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"3\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"> <!-- ##### admin 등록 영역 ##### -->                            <div class=\"prCont-txt\">                                \n                                <table width=\"100%\" border=\"1\"><tbody><tr><th width=\"20%\"> 유형 </th><th width=\"30%\"> 가입/해지 채널 </th><th width=\"50%\"> 상세경로 </th></tr><!-- 220414 [MOZOP002-20307] -->\n                                        <tr><th rowspan=\"4\">가입</th><td>T World</td><td> 부가서비스 &gt; 통화/메시지 &gt; 발신번호표시제한 </td></tr><tr><td>고객센터</td><td>02-1599-0011 / SK 텔레콤 휴대폰으로 지역번호없이 114</td></tr><tr><td>지점/대리점</td><td>-</td></tr><tr><td>기타외부채널</td><td>T통화매니저 앱 &gt; 발신번호표시제한 검색 &gt; 가입</td></tr><tr><th rowspan=\"4\">해지</th><td>T World</td><td> 부가서비스 &gt; 통화/메시지 &gt; 발신번호표시제한 </td></tr><tr><td>고객센터</td><td>02-1599-0011 / SK 텔레콤 휴대폰으로 지역번호없이 114</td></tr><tr><td>지점/대리점</td><td>-</td></tr><tr><td>기타외부채널</td><td>T통화매니저 앱 &gt; MY &gt; 발신번호표시제한 해지</td></tr><!-- //220414 [MOZOP002-20307] -->\n                                    </tbody></table>                      \n                            </div><!-- ##### //admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "notices": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"4\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul>   <li>LTE 영상통화 시에는 해당 서비스를 지원하지 않습니다.</li></ul></div></div>\n                </div>\n            </div>"
+  }
+}

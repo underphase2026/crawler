@@ -1,0 +1,11 @@
+{
+  "itemCode": "PROD_12345",
+  "productName": "5G_무제한_플랜_test_test",
+  "carrier": "SKT",
+  "category": "요금제",
+  "content": {
+    "details": "<p>이 서비스는 무제한 데이터를 제공합니다.</p>\n<ul>\n             <li>5G 속도</li>\n             <li>다양한 제휴 혜택</li>\n          </ul>",
+    "usageGuidelines": "<div class=\"usage-box\">\n            <p>월 89,000원에 이용 가능합니다.</p>\n          </div>",
+    "notices": "<ul class=\"notice-list\">\n             <li>가입 후 3개월 유지 필수</li>\n             <li>해지 시 위약금 발생 가능</li>\n          </ul>"
+  }
+}

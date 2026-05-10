@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778385559073_260",
+  "productName": "T_쿠폰",
+  "carrier": "SKT",
+  "category": "통화_메시지",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"2\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul> <li>쿠폰 적용 순서는 요금상품 &gt; 부가요금상품 &gt; T쿠폰 순으로 적용됩니다.</li></ul></div></div>\n                </div>\n            </div>",
+    "usageGuidelines": "",
+    "notices": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"4\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul> \n<li>HD 영상통화 이용요금은 T쿠폰이 적용되지 않습니다.</li> \n<li>타 요금제 및 부가서비스 가입과는 무관합니다.</li> \n<li>한도 정지 고객의 경우 쿠폰 등록 시 정지 자동 해지되며, 쿠폰 소진 시에 자동으로 정지됩니다.</li> \n<li>T쿠폰 공제금액은 멤버십 등급 산정 시 사용금액에 포함되지 않습니다.</li></ul></div></div>\n                </div>\n            </div>"
+  }
+}

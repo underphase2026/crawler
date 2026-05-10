@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778387908066_767",
+  "productName": "안전결제_프리미엄",
+  "carrier": "SKT",
+  "category": "인증_결제",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul>     \n<li>이용요금 : 550원 (부가세 포함)</li> \n<li>월 중 가입/해지 시에는 이용 일수에 비례하여 일할 과금</li><li>VM을 통한 모바일 ISP 결제 및 인증서 저장 서비스 이용시 무제한 무료<br>(단, 모바일 쇼핑몰 및 컨텐츠몰 접속 및 상품 선택 등에 한해 데이터 통화료 부과)</li> \n<li>VM 다운로드 무료</li> \n<li>인증서 다운로드 무료</li> \n<li>비밀번호 및 휴대폰 번호 등의 데이터 송수신에 발행사는 통화료 무료</li></ul></div></div>\n                </div>\n            </div>",
+    "usageGuidelines": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"3\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"> <!-- ##### admin 등록 영역 ##### -->                            <div class=\"prCont-txt\">\n                                <table width=\"100%\" summary=\"스마트공동인증 가입/해지 방법 안내 - 스마트공동인증 가입/해지방법을 유형, 가입/해지 채널, 상세경로로 구분해 안내합니다.\"><caption>소리샘 가입/해지 방법 안내</caption><colgroup><col style=\"width:20%\"><col style=\"width:30%\"><col style=\"width:50%\"></colgroup><thead><tr><th scope=\"col\"> 유형 </th><th scope=\"col\"> 가입/해지 채널 </th><th scope=\"col\"> 상세경로 </th></tr></thead><tbody><tr><th rowspan=\"1\" scope=\"row\"> 가입 </th><td>기타 외부채널 </td><td>카드사홈페이지 &gt; PC에서 이용하는 안전결제 프리미엄 서비스(모바일 안전결제) 화면 &gt; 안전결제 프리미엄 서비스 미신청 회원이 이동전화 연동 모바일 쇼핑몰 등에서 신용카드 결제 시, 모바일 ISP 서비스 신청 메뉴를 통해 VM다운로드 및 모바일 ISP신청</td></tr><tr><th rowspan=\"1\" scope=\"row\"> 해지 </th><td>고객센터 및 서비스 홈페이지</td><td>브이피 고객센터 1577-3033, SKT  고객센터(휴대폰에서 114) 또는 https://service.vp.co.kr</td></tr></tbody></table>\n                            </div><!-- //##### admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "notices": ""
+  }
+}

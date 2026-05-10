@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778344241251_600",
+  "productName": "오토콜",
+  "carrier": "SKT",
+  "category": "혜택_편의",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><!-- ##### admin 등록 영역 ##### -->                            <div class=\"prCont-txt\">\n                                \n<ul>\n                                    \n<li>이용요금 : 월정액료 990원 (부가세 포함)</li>\n                                    \n<li>서비스 해지 시 일할 과금계산</li>\n                                \n</ul>\n                            </div><!-- ##### //admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "usageGuidelines": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"2\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><!-- ##### admin 등록 영역 ##### --><div class=\"prCont-txt\"><table width=\"100%\"><caption>가입/해지 안내 - 유형, 가입/해지 경로, 방법으로 구성된 표입니다.</caption><colgroup><col style=\"width:20%\"><col style=\"width:30%\"><col style=\"width:50%\"></colgroup><thead><tr><th scope=\"col\">유형</th><th scope=\"col\">가입/해지 경로</th><th scope=\"col\">방법</th></tr></thead><tbody><tr><th scope=\"row\" rowspan=\"2\">가입</th><td>SKT 고객센터</td><td>1599-0011로 전화</td></tr><tr><td>기타외부채널</td><td>빌레터 또는 AI 오토콜 홈페이지</td></tr><tr><th scope=\"row\" rowspan=\"3\">해지</th><td>T World 홈페이지/앱</td><td>휴대폰 SMS 인증 후 해지 가능</td></tr><tr><td>SKT 고객센터</td><td>\n                                                1599-0011 (SKT 고객센터)로 전화<br>SKT기기로 지역번호 없이 114<br>1566-7531 (오토콜 서비스 고객센터)로 전화\n                                            </td></tr><tr><td>기타외부채널</td><td>AI 오토콜 홈페이지 (https://www.autocall.ai) 에서 해지</td></tr></tbody></table>\n                                <ul> \n<li>선물요금제 : 가입불가</li>\n                                    <li>법인명의 휴대폰 : 가입불가</li>\n                                    <li>기기변경, 번호변경시 서비스유지</li><li>번호이동, 명의변경시 서비스해지</li>\n                                    <li>미성년 가입제한 : 만 19세 미만 가입 불가</li></ul>\n                                <p>\n                                    ※ 오토콜 서비스 고객센터 : 1566-7531<br>\n                                    평일 09:00~18:00 (점심시간 12:00~13:00 / 주말·공휴일 휴무)\n                                </p></div><!-- //##### admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "notices": ""
+  }
+}

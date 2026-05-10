@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778387539601_730",
+  "productName": "Wavve_속도_제어_해제",
+  "carrier": "SKT",
+  "category": "콘텐츠이용",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><!-- ##### admin 등록 영역 ##### -->                            <div class=\"prCont-txt\">\n                                \n<ul style=\"padding-top:0 !important\">\n                                    \n<li>\n                                        이용 요금: 무료\n                                    </li>\n                                    \n<li>\n                                        기본 혜택 : Wavve 앤 데이터, Wavve 앤 데이터 플러스 속도 제어(3Mbps) 해제<!-- 221104 [MOZOP002-23966] -->\n                                    </li>\n                                \n</ul>\n \n                                \n                            </div><!-- ##### //admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "usageGuidelines": "",
+    "notices": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"2\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><!-- ##### admin 등록 영역 ##### -->                            <!-- 221104 [MOZOP002-23966] -->                            <div class=\"prCont-txt\">\n                                <ul>\n                                    <li>Wavve 속도 제어 해제 상품 가입 시에는 가입된 기본 요금제의 기본 데이터 제공량이 차감됩니다.</li>\n                                    <li>단, 기본제공량 모두 소진 시 Wavve 앤 데이터 및 Wavve 앤 데이터 플러스 속도 제어 기준에 따라 처리됩니다.</li>\n                                    <li>Wavve 속도 제어 해제 상품은 익월 1일 자동 해지 처리됩니다.</li>\n                                </ul>\n                            </div><!-- //221104 [MOZOP002-23966] -->                            <!-- ##### //admin 등록 영역 ##### --></div>\n                </div>\n            </div>"
+  }
+}

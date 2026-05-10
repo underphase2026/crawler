@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778345791576_892",
+  "productName": "국제전화발신금지",
+  "carrier": "SKT",
+  "category": "혜택_편의",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul>     <li>이용요금 : 무료</li></ul></div></div>\n                </div>\n            </div>",
+    "usageGuidelines": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"2\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\">   <!-- ##### admin 등록 영역 ##### -->                            <div class=\"prCont-txt\">\n                                <table width=\"100%\" border=\"1\"><tbody><tr><th width=\"20%\"> 유형 </th><th width=\"30%\"> 가입/해지 경로</th><th width=\"50%\"> 방법 </th></tr><tr><th rowspan=\"3\"> 가입 </th><td> T World 홈페이지/앱 </td><td> T world &gt; 부가서비스 &gt; 통화 &gt; 통화 필터링 &gt; 국제전화발신금지 </td></tr><tr><td> SKT 고객센터 </td><td> 1599-0011로 전화<br>SKT기기로 지역번호 없이 114 </td></tr><tr><td> SK 텔레콤 지점/대리점 </td><td> - </td></tr><tr><th rowspan=\"3\"> 해지 </th><td> T World 홈페이지/앱 </td><td> T world &gt; 부가서비스 &gt; 통화 &gt; 통화 필터링 &gt; 국제전화발신금지 </td></tr><tr><td> SKT 고객센터 </td><td> 1599-0011로 전화<br>SKT기기로 지역번호 없이 114 </td></tr><tr><td> SK 텔레콤 지점/대리점 </td><td> - </td></tr></tbody></table>\n                            </div><!-- //##### admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "notices": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"3\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul> \n<li>만 18세 이하 청소년 요금제 가입 시 ‘국제전화발신금지’ 서비스가 자동 신청되어 국제전화 이용불가합니다.</li>  \n<li>국제전화발금지’ 서비스를 신청한 경우 국제전화 및 해외로밍 서비스 이용 불가합니다.</li>  \n<li>휴대폰 기능상 ‘국제전화제한 기능’이 설정된 경우 사용책자 및 생산업체 A/S센터로 문의해 주세요.</li>  \n\n</ul></div><p>&nbsp;</p></div>\n                </div>\n            </div>"
+  }
+}

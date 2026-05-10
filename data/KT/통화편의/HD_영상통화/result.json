@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_KT_1778213099732_63",
+  "productName": "HD_영상통화",
+  "carrier": "KT",
+  "category": "통화편의",
+  "description": "고화질급의 고화질 영상과 음성으로 즐기는 영상통화 서비스",
+  "content": {
+    "details": "<h2 class=\"title\">요금 안내</h2>\n<div id=\"appendPriceDiv\" class=\"desc\"><p class=\"table-guide-desc\">부가세가 포함된 실제 지불금액입니다.</p>\n\n<table class=\"table-plan\">\n\t<caption class=\"invisible\">HD 영상통화에 대한 내용을 초과 요금 산정 방식에 따른 차이를 정의한 표</caption>\n\t<colgroup>\n\t\t<col>\n\t\t<col style=\"width:50%;\">\n\t</colgroup>\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">구분</th>\n\t\t\t<th scope=\"col\">초과요금 산정 방식</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th scope=\"row\">가입 요금제 기본 제공량에서 요금 산정 방식 차감<br>\n\t\t\t(음성통화 대비 1.66배 차감)</th>\n\t\t\t<td>영상 3.3원/초<br>\n\t\t\t알 요금제는 영상 2.5알/초</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>",
+    "usageGuidelines": "<h2 class=\"title\">요금 안내</h2>\n<div id=\"appendPriceDiv\" class=\"desc\"><p class=\"table-guide-desc\">부가세가 포함된 실제 지불금액입니다.</p>\n\n<table class=\"table-plan\">\n\t<caption class=\"invisible\">HD 영상통화에 대한 내용을 초과 요금 산정 방식에 따른 차이를 정의한 표</caption>\n\t<colgroup>\n\t\t<col>\n\t\t<col style=\"width:50%;\">\n\t</colgroup>\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">구분</th>\n\t\t\t<th scope=\"col\">초과요금 산정 방식</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<th scope=\"row\">가입 요금제 기본 제공량에서 요금 산정 방식 차감<br>\n\t\t\t(음성통화 대비 1.66배 차감)</th>\n\t\t\t<td>영상 3.3원/초<br>\n\t\t\t알 요금제는 영상 2.5알/초</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>",
+    "notices": "<h2 class=\"seo-improve-heading\">가입 및 유의사항</h2>\n<button type=\"button\" class=\"accordion-trigger title\" onclick=\"javascript:loadHtml.fn_getItemAccordionInfo('/static/prodetail/786/web/itemAccordion/html/', 'accordion_20200911170249.html', '2');  detailClickStatistics.click('KT닷컴_PC_상품_모바일_모바일 부가서비스', '^KT닷컴_PC_상품_모바일_모바일 부가서비스_HD 영상통화^아코디언^', '가입 및 유의사항');\" id=\"title2\" title=\"가입 및 유의사항 내용\" aria-expanded=\"false\">\n\t\t\t\t\t\t\t\t\t\t</button>\n<div class=\"accordion-contents desc\" style=\"display: none;\">\n\t\t\t\t\t\t\t\t\t\t\t<div id=\"accordion2\"><ul class=\"fare-list\">\n\t<li>HD 영상통화는 3G 영상통화에서 진화한 고화질급 서비스로 고품질 음성과 선명하고 깨끗한 VGA급 영상을 제공합니다.</li>\n\t<li>고화질 영상통화 중에 끊기지 않고, 음성통화(HD 보이스)로 자유로운 전환이 가능합니다.</li>\n\t<li>본 상품은 로밍 서비스 및 영상사서함 서비스를 제공하지 않습니다.</li>\n\t<li>HD 영상통화 중 음성/영상 전환 기능은 고화질 영상통화 시에만 제공 됩니다.</li>\n\t<li>HD 영상통화 서비스는 일부 음성통화 부가서비스를 지원하지 않습니다.</li>\n\t<li>HD 영상통화는 모든 LTE 요금제에서 제공됩니다.\n\t<p>HD 음성/영상 서비스는 LTE 서비스 이용가능지역에서만 제공됩니다.</p>\n\t</li>\n</ul>\n</div>\n\t\t\t\t\t\t\t\t\t\t</div>"
+  }
+}

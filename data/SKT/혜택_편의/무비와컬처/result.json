@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778344240225_382",
+  "productName": "무비와컬처",
+  "carrier": "SKT",
+  "category": "혜택_편의",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><!-- ##### admin 등록 영역 ##### -->                                <div class=\"prCont-txt\">\n                                    <ul>\n                                        <li>[이용요금] 3,900원 (부가세 별도)</li>                                        \n                                    </ul>\n                                </div><!-- ##### //admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "usageGuidelines": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"2\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"> <!-- ##### admin 등록 영역 ##### -->                                <div class=\"prCont-txt\">\n                                    <table width=\"100%\" border=\"1\"><caption>가입/해지 안내 - 유형, 가입/해지 경로, 방법으로 구성되어있습니다.</caption><colgroup>\n                                            <col style=\"width:20%\">\n                                            <col style=\"width:45%\">\n                                            <col style=\"width:35%\">\n                                        </colgroup>\n                                        <thead><tr><th scope=\"col\">유형</th><th scope=\"col\">가입/해지 경로</th><th scope=\"col\">방법</th></tr></thead>\n                                        <tbody><tr><th scope=\"row\">가입</th><td>기타외부채널</td><td>Bill Letter App &gt; 맞춤추천, 부가서비스 &gt; ‘무비와컬처’ 가입 또는 무비와컬처 홈페이지에서 가입</td></tr><tr><th rowspan=\"4\" scope=\"row\">해지</th><td>T World 홈페이지/앱</td><td>T world &gt; 부가서비스 &gt; ‘무비와컬처’ 해지</td></tr><tr><td>SKT 고객센터</td><td>1599-0011로 전화 <br>SKT기기로 지역번호 없이 114</td></tr><tr><td>무비와컬처 고객센터</td><td>1644-5361로 전화</td></tr><tr><td>기타외부채널</td><td>Bill Letter App &gt; 실시간요금 &gt; 부가서비스 &gt; ‘무비와컬처’ 해지 또는 무비와컬처 홈페이지에서 해지</td></tr></tbody></table>\n                                </div><!-- //##### admin 등록 영역 ##### --></div>\n                </div>\n            </div>",
+    "notices": ""
+  }
+}

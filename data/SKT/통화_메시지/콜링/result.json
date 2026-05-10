@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_SKT_1778385559011_548",
+  "productName": "콜링",
+  "carrier": "SKT",
+  "category": "통화_메시지",
+  "description": "",
+  "content": {
+    "details": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"1\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><ul> \n<li>월정액 : 1,100원(부가세 포함)</li><li>서비스 해지 시 요금은 일할 과금됩니다. </li></ul></div></div>\n                </div>\n            </div>",
+    "usageGuidelines": "",
+    "notices": "<div class=\"divDetailInfoContents adaptive-visualization\" data-contentidx=\"2\" style=\"display: none;\">\n                <div class=\"adaptive-belt-1000\">\n                    <div class=\"adaptive-belt-w1000\"><div class=\"prCont-txt\"><h3>공통 안내사항</h3><ul>   \n<li>콜링 서비스 가입 시 기 가입되어 있던 중복 불가 상품(구성상품 등)에 대해서는 콜링서비스 가입 시 자동 해지되며, 컬러링 기본 음원은 유지됩니다. 단, 콜키퍼의 경우 저장된 수신 정보는 초기화됩니다.</li>   \n<li>구성상품에 대한 상세내용은 각 구성상품의 별도 상품 안내페이지를 통해서 보다 자세하게 확인하실 수 있습니다.</li><li>V 컬러링 라이트와 콜링(컬러링) 동시 가입하신 경우, 상대방 휴대폰 통화 앱에 V 컬러링 규격이 적용되어 있으면 V 컬러링 라이트가, 그 외의 경우에는 컬러링이 재생됩니다.</li>\n\n</ul><h3>콜키퍼</h3><ul>   \n<li>발신번호는 100개까지 저장됩니다.<br>(단, 100건 초과 시에는 과거 저장번호부터 삭제되며, 30일 이상 정보에 대해서도 자동 삭제됩니다.)</li>   \n<li>미수신된 발신번호 정보는 문자메시지(SMS), T world를 통해 확인할 수 있습니다.</li>   \n<li>같은 발신번호로 10분 이내 중복 수신된 경우 1건의 발신번호 정보만 제공됩니다.</li>   \n<li>전원이 꺼진 상태에서 들어온 콜키퍼 SMS의 경우 한달 이내 건에 대해서는 전원을 켤 때 SMS 수신 및 확인이 가능합니다.<br>(단, 통화중, 음영지역(NPR), 배터리를 분리하여 수신이 불가한 상황에 대해서는 24시간이내 건에 대해서만 SMS통보 가능함)</li></ul><h3>컬러링</h3><ul>   \n<li>최초 부가서비스 신청 시 기본음으로 하나의 음이 SK텔레콤 에서 무료로 제공되며, 기본음 이외에 새로운 음원으로 설정을 원하실 경우 변경이 가능하며 변경 시 별도의 정보이용료가 부과됩니다.</li>   \n<li>컬러링 기가입자의 경우 콜링 서비스 가입 시 기존 설정(구매)된 음원은 유지됩니다.</li></ul></div></div>\n                </div>\n            </div>"
+  }
+}

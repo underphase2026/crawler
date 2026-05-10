@@ -1,0 +1,12 @@
+{
+  "itemCode": "Z_LGU_1778166721169_568",
+  "productName": "스마트공동인증_드림시큐리티",
+  "carrier": "LGU",
+  "category": "가족보호_안심",
+  "description": "인증서 유출을 보다 강력하게 방지해주고 편리함은 더해진 서비스",
+  "content": {
+    "details": "<div class=\"c-page-section\">\n<p class=\"h2\">서비스 내용</p>\n\n<p class=\"h5 -mt-8n-3 fw-m\">요금제</p>\n\n<div class=\"row c-table -mt-8n-2\">\n<table class=\"table b-table table-bordered\">\n\t<caption>요금제 : 월정액, 내용 에 대한 표</caption>\n\t<colgroup>\n\t\t<col>\n\t</colgroup>\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">월정액</th>\n\t\t\t<th scope=\"col\">내용</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"cl-black\">990원</td>\n\t\t\t<td class=\"c-cell-left\">\n\t\t\t<ul class=\"c-bullet-type-circle grow-1\">\n\t\t\t\t<li>공동인증서 유출을 방지하는 보안 강화 서비스\n\t\t\t\t<ul class=\"c-bullet-type-hypen\">\n\t\t\t\t\t<li>안전하게 인증서 저장 가능</li>\n\t\t\t\t\t<li>간편하게 휴대 가능</li>\n\t\t\t\t</ul>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n\n<ul class=\"c-bullet-type-circle\">\n\t<li>부가세 포함 금액</li>\n</ul>\n</div>",
+    "usageGuidelines": "<div class=\"c-page-section\">\n<p class=\"h2\">서비스 안내</p>\n\n<p class=\"h5 -mt-8n-2 fw-m\">이럴 때 이용하세요</p>\n\n<ul class=\"c-bullet-type-circle grow-1\">\n\t<li>유출 걱정이 없는 보다 안전하고 편리한 공동인증서비스가 필요할 때</li>\n</ul>\n\n<p class=\"h5 -mt-8n-2 fw-m\">이용안내</p>\n\n<ul class=\"c-bullet-type-circle grow-1\">\n\t<li>유심(개인정보저장)카드을 내장하고 있는 안드로이드 기반의 LTE폰, iOS(애플) 아이폰 6.0 이상에서만 사용할 수 있습니다.</li>\n\t<li>개인 또는 법인 명의의 계정에서 가입할 수 있으며, 청소년, 선불폰 또는 알뜰폰 사용자는 가입이 제한됩니다.</li>\n\t<li>서비스를 이용할 경우 기본 제공 데이터 초과요금이 발생할 수 있습니다.</li>\n\t<li>서비스를 해지할 경우, 이용 요금은 해지일을 기준으로 사용한 일수에 따라 청구됩니다.</li>\n\t<li>서비스가 지원되지 않는 LTE폰으로 변경하는 경우에도 서비스가 자동 해지되지 않으니 유의하세요.</li>\n\t<li>‘USIM 스마트인증’과 동시에 가입할 수 없습니다.</li>\n</ul>\n</div>",
+    "notices": ""
+  }
+}
